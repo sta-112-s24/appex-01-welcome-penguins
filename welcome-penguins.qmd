@@ -1,7 +1,8 @@
 ---
 title: "Penguins!"
 author: "Lucy D'Agostino McGowan"
-output: html_document
+format: html
+editor: visual
 ---
 
 ## Introduction
