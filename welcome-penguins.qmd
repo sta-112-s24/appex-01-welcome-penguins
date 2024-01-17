@@ -58,6 +58,6 @@ Below is the full dataset:
 ```{r}
 #| label: data
 #| echo: false
-penguins %>% 
+penguins |>
   datatable()
 ```
